@@ -4,7 +4,7 @@ This project offers a Virtual Fitness Assistant accessible to all fitness levels
 
 Technologically, this project utilizes Raspberry Pis for the GUI and libraries for movement detection via keypoints. The Coral AI accelerator enhances performance. Key technologies include CV2 (OpenCV) for camera input and keypoint visualization, and the SpeechRecognition library for integrated "reset" and "next" commands.
 
-# Libraries needed to run this project on a raspi
+## Libraries needed to run this project on a raspi
 
 pip3 install mediapipe
 sudo tee/etc/apt/sources.list.d/coral-edgetpu.list
